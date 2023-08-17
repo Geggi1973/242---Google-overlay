@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<GroundOverlay><name>LD4LA MAP.png</name><color>88ffffff</color><Icon>
+<href>LD4LA MAP.png</href>
+<viewBoundScale>0.75</viewBoundScale></Icon><LatLonBox>
+<north> 59.2566</north>
+<south> 57.45682</south>
+<east> 8.568304</east>
+<west> 4.438276</west>
+</LatLonBox></GroundOverlay></kml>
