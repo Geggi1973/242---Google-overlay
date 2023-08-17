@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<GroundOverlay><name>LD6FF.png</name><color>88ffffff</color><Icon>
+<href>LD6FF.png</href>
+<viewBoundScale>0.75</viewBoundScale></Icon><LatLonBox>
+<north> 62.49389</north>
+<south> 60.69411</south>
+<east> 7.297638</east>
+<west> 2.742962</west>
+</LatLonBox></GroundOverlay></kml>
