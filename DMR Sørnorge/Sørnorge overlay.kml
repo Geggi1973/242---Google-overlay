@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<GroundOverlay><name>Sørnorge overlay.png</name><color>88ffffff</color><Icon>
+<href>Sørnorge overlay.png</href>
+<viewBoundScale>0.75</viewBoundScale></Icon><LatLonBox>
+<north> 60.8024</north>
+<south> 57.6528</south>
+<east> 13.81147</east>
+<west> 1.870405</west>
+</LatLonBox></GroundOverlay></kml>

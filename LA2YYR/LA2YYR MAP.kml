@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<GroundOverlay><name>LA2YYR MAP.png</name><color>88ffffff</color><Icon>
+<href>LA2YYR MAP.png</href>
+<viewBoundScale>0.75</viewBoundScale></Icon><LatLonBox>
+<north> 60.6807</north>
+<south> 58.88092</south>
+<east> 12.94797</east>
+<west> 8.642993</west>
+</LatLonBox></GroundOverlay></kml>
