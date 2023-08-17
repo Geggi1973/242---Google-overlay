@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<GroundOverlay><name>LD9HR MAP.png</name><color>88ffffff</color><Icon>
+<href>LD9HR MAP.png</href>
+<viewBoundScale>0.75</viewBoundScale></Icon><LatLonBox>
+<north> 70.11095</north>
+<south> 67.41129</south>
+<east> 21.00577</east>
+<west> 12.03397</west>
+</LatLonBox></GroundOverlay></kml>
