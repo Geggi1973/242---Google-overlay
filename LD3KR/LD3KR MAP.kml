@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<GroundOverlay><name>LD3KR MAP.png</name><color>88ffffff</color><Icon>
+<href>LD3KR MAP.png</href>
+<viewBoundScale>0.75</viewBoundScale></Icon><LatLonBox>
+<north> 60.5708</north>
+<south> 58.77102</south>
+<east> 11.72019</east>
+<west> 7.429335</west>
+</LatLonBox></GroundOverlay></kml>
