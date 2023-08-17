@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<GroundOverlay><name>LA7CR.png</name><color>88ffffff</color><Icon>
+<href>LA7CR.png</href>
+<viewBoundScale>0.75</viewBoundScale></Icon><LatLonBox>
+<north> 60.83069</north>
+<south> 59.03091</south>
+<east> 12.09151</east>
+<west> 7.767088</west>
+</LatLonBox></GroundOverlay></kml>
